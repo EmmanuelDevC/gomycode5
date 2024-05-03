@@ -1,0 +1,21 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.back-img {
+    background-image: url('https://source.unsplash.com/random/1920x1080/?wallpaper,landscape');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.hero {
+    height: 80vh;
+    width: 100vw;
+}
